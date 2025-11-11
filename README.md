@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # Multimodal Sentiment Analysis
 
 This project focuses on developing a machine learning model for sentiment analysis using multimodal data (text and images). This document provides an overview of the project, its goals, setup instructions, and additional details.
