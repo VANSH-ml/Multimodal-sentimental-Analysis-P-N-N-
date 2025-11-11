@@ -100,12 +100,4 @@ Certainly! Here are the key facts about training the multimodal sentiment analys
 ![Image Description](src/images/fusion-1-accuracy-graph.PNG)
 ![Image Description](src/images/fusion-1-confusion-matrix.PNG)
 
-=======
-# Multimodal-sentimental-Analysis-P-N-N-
->>>>>>> b0a5d84d020979045afd59cb62eaac0ac0805d94
-=======
-# Multimodal-sentimental-Analysis-P-N-N-
-# Multimodal Sentimental Analysis (P-N-N)
-This project focuses on analyzing multimodal sentiment (text, audio, image).
-Developed by VANSH-ml.
->>>>>>> a5b1ecaeb326173f766a45a425f08424fdfcef6b
+
